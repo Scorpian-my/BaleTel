@@ -1,0 +1,3 @@
+balethon
+python-dotenv
+telethon

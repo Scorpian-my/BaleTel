@@ -7,7 +7,6 @@
    <img src="https://img.shields.io/badge/Balethon-0.4+-orange.svg" alt="Balethon">
    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
-<br>
 <p align="center">
    <b>ربات حرفه‌ای انتقال پیام از تلگرام به بله با قابلیت‌های پیشرفته</b>
 </p>
@@ -19,6 +18,7 @@
    <a href="#-ساختار-پروژه">ساختار پروژه</a> •
    <a href="#-راهنمای-استفاده">راهنمای استفاده</a>
 </p>
+<br>
 <p align="center">
 <a href="https://daramet.com/scorpian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>

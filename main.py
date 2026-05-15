@@ -7,7 +7,7 @@ from balethon.objects import InlineKeyboard
 from telethon import TelegramClient
 from telethon.events import NewMessage
 from config.config import config
-from filters.filters import auto_filtersّ
+from filters.filters import auto_filters
 from handler.handlers import (
     user_pages,
     user_send_target,
